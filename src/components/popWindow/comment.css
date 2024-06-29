@@ -1,0 +1,19 @@
+
+.comment-container{
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    margin-top: 5px;
+
+    width: 100%;
+
+}
+
+.comments {
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-height: 200px;
+    overflow: auto;
+}

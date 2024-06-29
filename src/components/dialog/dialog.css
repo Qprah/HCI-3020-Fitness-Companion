@@ -1,0 +1,15 @@
+
+.centered-group-item {
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.centered-list-item {   
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

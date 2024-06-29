@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  height: 80vh;
+  width: 100%;
+}
+
+.App{
+  background-color: #ffcd91;
+
+}
+
+.content-S{
+  transform: scale(0.90) translateY(-5%);
+  padding-top: 1%;
+  height: 80%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.feed{
+  padding: 0rem 0rem 0rem 3rem;
+}
+
+.muscle-selector{
+  background-color: bisque;
+  padding-bottom: 30rem;
+}

@@ -1,0 +1,24 @@
+.video-container {
+    --border-width: 40px;
+    margin: var(--border-width) auto;
+    position: sticky;
+    top: var(--border-width);
+    width: 700px; /* Increased width */
+    height: 400px; /* Increased height maintaining 16:9 aspect ratio */
+    backdrop-filter: blur(4px) brightness(150%);
+  }
+  
+  .video-set {
+    width: 40% ;
+    padding: auto;
+    position: relative;
+  }
+  
+  .smart-video {
+    margin: 40px auto;
+    width: 60%;
+    max-height: 400px;
+    padding-bottom: 100px;
+    padding: auto;
+    overflow: auto; 
+  }

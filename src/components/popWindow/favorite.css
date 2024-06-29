@@ -1,0 +1,47 @@
+@keyframes shakeAndFadeOut {
+
+  0%,
+  10%, 
+  20%,
+  30%{
+    transform: translateX(-10px);
+    opacity: 1;
+  }
+
+  15%,
+  25%,
+  35%{
+    transform: translateX(10px);
+    opacity: 1;
+  }
+
+  12.5%,
+  22.5%,
+  32.5%{
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+
+  90%,
+  100% {
+    transform: translateY(-200vh) translateX(0);
+    opacity: 1;
+  }
+
+}
+
+.shake-and-fade-out-animation {
+  animation: shakeAndFadeOut 2s forwards;
+}
+
+.popup-window {
+  position: relative;
+
+}
+
+.star-icon {
+  position: absolute;
+  margin-left: 500px; 
+  margin-top: 100px;
+}

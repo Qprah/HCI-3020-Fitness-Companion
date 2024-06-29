@@ -1,0 +1,33 @@
+.btn-close {
+  position: absolute;
+  top: 1rem; /* Adjust the top as necessary */
+  right: 1rem; /* Adjust the right as necessary */
+  --bs-btn-close-focus-shadow: none!important;
+}
+.custom-modal-size {
+  
+  max-width: 80%;
+  right: 0%;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+}
+
+img{
+  cursor: pointer;
+  border-radius: 10px;
+  aspect-ratio: 1.8/1;
+  width: 20%;
+  height: auto;
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+img:hover{
+  -webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
