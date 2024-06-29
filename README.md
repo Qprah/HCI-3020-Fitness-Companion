@@ -6,6 +6,11 @@ Welcome to the Fitness Companion project! This is a horizontal prototype of a we
 
 The Fitness Companion website allows users to select different body parts on a person figure to view related exercises. The prototype showcases the use of React with Vite for fast development, along with Tailwind CSS, Bootstrap, and Material UI for styling.
 
+- Selecting Body Parts
+  Click on the body parts of the illustrated figure on the left to view related exercises on the right panel. Use the search bar to filter exercises by name, and the sorting dropdown to arrange them by popularity or difficulty. (Main Functionality)
+
+![Main Functionality](Fitness-Companion/mainfunc.gif)
+
 ## Technologies Used - (React JS, Vite, Tailwind CSS, Bootstrap, Material UI)
 - **React + Vite**: For building a fast and modern web application.
 - **Tailwind CSS**: For utility-first CSS styling.
@@ -19,13 +24,6 @@ The Fitness Companion website allows users to select different body parts on a p
 - **Filtering and Sorting**: Users can filter exercises by muscle group and sort them by different criteria.
 - **User Interface**: Utilizes Tailwind CSS, Bootstrap, and Material UI for a clean and responsive design.
 - **Toggle Switch**: Option to prioritize exercises for male or female users.
-  
-### Selecting Body Parts
-
-Click on the body parts of the illustrated figure on the left to view related exercises on the right panel. Use the search bar to filter exercises by name, and the sorting dropdown to arrange them by popularity or difficulty.
-- Main Functionality
-
-![Main Functionality](Fitness-Companion/mainfunc.gif)
 
 ## Getting Started
 
