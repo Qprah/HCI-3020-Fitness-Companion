@@ -1,10 +1,16 @@
-# Fitness Companion - Horizontal Prototype
+# Fitness Companion - Horizontal Prototype 
 
 Welcome to the Fitness Companion project! This is a horizontal prototype of a website designed to show exercises based on a selectable body part figure. The prototype focuses on demonstrating the UI/UX design and the main feature of convenient exercise search rather than full website functionality.
 
 ## Project Overview
 
 The Fitness Companion website allows users to select different body parts on a person figure to view related exercises. The prototype showcases the use of React with Vite for fast development, along with Tailwind CSS, Bootstrap, and Material UI for styling.
+
+## Technologies Used - (React JS, Vite, Tailwind CSS, Bootstrap, Material UI)
+- **React + Vite**: For building a fast and modern web application.
+- **Tailwind CSS**: For utility-first CSS styling.
+- **Bootstrap**: For responsive grid system and components.
+- **Material UI**: For modern and customizable UI components.
 
 ## Features
 
@@ -20,13 +26,6 @@ Click on the body parts of the illustrated figure on the left to view related ex
 - Main Functionality
 
 ![Main Functionality](Fitness-Companion/mainfunc.gif)
-
-## Technologies Used
-
-- **React + Vite**: For building a fast and modern web application.
-- **Tailwind CSS**: For utility-first CSS styling.
-- **Bootstrap**: For responsive grid system and components.
-- **Material UI**: For modern and customizable UI components.
 
 ## Getting Started
 
