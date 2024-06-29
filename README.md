@@ -19,7 +19,7 @@ The Fitness Companion website allows users to select different body parts on a p
 Click on the body parts of the illustrated figure on the left to view related exercises on the right panel. Use the search bar to filter exercises by name, and the sorting dropdown to arrange them by popularity or difficulty.
 - Main Functionality
 
-![Main Functionality](mainfunc.gif)
+![Main Functionality](Fitness-Companion/mainfunc.gif)
 
 ## Technologies Used
 
@@ -68,7 +68,9 @@ Already added production version.
 
 ## Other Demonstrations
 - plays a responsive video along with the required steps to perform the exercise.
-![Functionality 1](func1.gif)
+  
+![Functionality 1](Fitness-Companion/func1.gif)
 
 - added last moment features for adding exercises, sorting and user profile on the main page...
-![Functionality 2](func2.gif)
+  
+![Functionality 2](Fitness-Companion/func2.gif)
